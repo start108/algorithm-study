@@ -14,7 +14,26 @@ public class Bfs1260 {
     static int n;
     static int m;
     static int v;
+
+    static int count;
     static Queue<Integer> queue = new LinkedList<>();
+
+    static void dfs(int start) {
+
+        visitedArr[start] = true;
+        System.out.print(start + " ");
+
+        if (count == n) {
+            return;
+        }
+        count++;
+
+        for (int i = 1; i <= n; i++) {
+            if (edgeArr[start][i] == 1 && visitedArr[i] == false) {
+                dfs(i);
+            }
+        }
+    }
 
     static void bfs(int start) {
 
@@ -58,6 +77,10 @@ public class Bfs1260 {
             edgeArr[x][y] = edgeArr[y][x] = 1;
         }
 
+        dfs(v);
+        System.out.println();
+
+        visitedArr = new boolean[1001];
         bfs(v);
     }
 }
