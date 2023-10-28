@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ş²ñü8äÔËƒ·1
+D
+java:S1125#"'Remove the unnecessary boolean literal.(¨™ĞÒ8åÔËƒ·1
+G	java:S106-"+Replace this use of System.out by a logger.(Ş²ñü8çÔËƒ·1
+D
+java:S11254"'Remove the unnecessary boolean literal.(¨™ĞÒ8èÔËƒ·1
+G	java:S1067"+Replace this use of System.out by a logger.(Ù©È±8ñÔËƒ·1
+L	java:S106T"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¼°Îƒ·1

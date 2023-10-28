@@ -1,9 +1,13 @@
 
 N
-java:S1197",Move the array designators [][] to the type.(Ö›©Ãûÿÿÿÿ8Æ¾ƒ‡¶1
+java:S1197",Move the array designators [][] to the type.(Ö›©Ãûÿÿÿÿ8éÄ§€·1
 G
-java:S1197"*Move the array designators [] to the type.(Ö…ùò8È¾ƒ‡¶1
-G	java:S106"+Replace this use of System.out by a logger.(Ş²ñü8ô‹‡¶1
+java:S1197"*Move the array designators [] to the type.(Ö…ùò8êÄ§€·1
+G	java:S106"+Replace this use of System.out by a logger.(Ş²ñü8îÄ§€·1
 I
-java:S1125"'Remove the unnecessary boolean literal.(¿Öç§şÿÿÿÿ8Ô¾ƒ‡¶1
-G	java:S106!"+Replace this use of System.out by a logger.(Ù©È±8ÂÑ‡¶1
+java:S1125 "'Remove the unnecessary boolean literal.(¿Öç§şÿÿÿÿ8ğÄ§€·1
+G	java:S106*"+Replace this use of System.out by a logger.(Ş²ñü8óÄ§€·1
+I
+java:S11251"'Remove the unnecessary boolean literal.(¿Öç§şÿÿÿÿ8ôÄ§€·1
+G	java:S1064"+Replace this use of System.out by a logger.(Ù©È±8õÄ§€·1
+L	java:S106Q"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8úÄ§€·1
