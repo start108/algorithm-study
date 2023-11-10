@@ -13,3 +13,7 @@ W
 'src/backTracking/BackTracking15649.java,8/3/83323352bf8c0ec77be35e11f6d7bdbf8452e033
 S
 #src/simulation/Simulation10810.java,4/1/41a1f8c8a123f0ae96a838b47cd23e7fe462fe25
+W
+'src/backTracking/BackTracking15650.java,f/c/fc217b5aa6fb381185480621e3715a83f3ebf545
+W
+'src/backTracking/BackTracking15651.java,e/1/e1d34c9903e9d7920c1a96647a08a3ca05adbdcd
